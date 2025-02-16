@@ -1,0 +1,21 @@
+[debug] [2024-10-16T09:19:47.091Z] ----------------------------------------------------------------------
+[debug] [2024-10-16T09:19:47.095Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Opengates\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-10-16T09:19:47.096Z] CLI Version:   13.22.0
+[debug] [2024-10-16T09:19:47.096Z] Platform:      win32
+[debug] [2024-10-16T09:19:47.096Z] Node Version:  v20.17.0
+[debug] [2024-10-16T09:19:47.096Z] Time:          Wed Oct 16 2024 12:19:47 GMT+0300 (East Africa Time)
+[debug] [2024-10-16T09:19:47.096Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-16T09:19:47.106Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-16T09:19:47.106Z] > authorizing via signed-in user (Nourivadeveloper@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Opengates\Nouriva-admin-dashboard
+
