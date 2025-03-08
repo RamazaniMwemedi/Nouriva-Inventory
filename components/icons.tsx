@@ -92,7 +92,7 @@ export function Spinner() {
 export function Logo(props: React.ComponentProps<'div'>) {
   return (
     <div {...props}>
-      <Image src="/logo.jpg" alt="Nouriva" width={100} height={100} />
+      <Image src="/nouriva-logo.png" alt="Nouriva" width={100} height={100} />
     </div>
   );
 }
